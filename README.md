@@ -72,6 +72,62 @@ a través del reóstato es la diferencia entre el voltaje del elemento calentado
 
 ![image](https://user-images.githubusercontent.com/116816731/202288297-7c8e3210-8ff1-4af6-9a4c-7750584e2410.png)
 
+![image](https://user-images.githubusercontent.com/116816731/202288826-0a9ba73a-6974-4c91-926c-f719b47a192d.png)
+
+SECCIÓN 3–3: Cálculo de voltaje.
+
+24.Calcule el voltaje para cada valor de I y R:
+
+![image](https://user-images.githubusercontent.com/116816731/202291185-a058ff56-c8ac-4a35-ba78-3d50e00dd1e3.png)
+
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 pa-
+ra obtener las cantidades de corriente indicadas.
+
+![image](https://user-images.githubusercontent.com/116816731/202291513-a442b819-acdb-49f8-bcd1-20258343c596.png)
+
+![image](https://user-images.githubusercontent.com/116816731/202292008-a9a14af6-37f7-40f9-a055-5fb94df34712.png)
+
+SECCIÓN 3–4: Cálculo de la resistencia.
+
+28.Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+![image](https://user-images.githubusercontent.com/116816731/202293154-7f805542-b56b-4eab-9030-3669d6d932bc.png)
+
+30.Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![image](https://user-images.githubusercontent.com/116816731/202293225-1f751088-7c30-43b4-9419-096ccaf3d19d.png)
+
+32.Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+![image](https://user-images.githubusercontent.com/116816731/202293334-63792c4e-de16-4163-9077-c37f5d1be000.png)
+
+34.Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
+excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reósta-
+to sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
+
+![image](https://user-images.githubusercontent.com/116816731/202293494-daa5879c-106a-45fd-ba0e-d28ed0e7b851.png)
+
+SECCIÓN 3–5: Introducción a la localización de fallas.
+
+En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
+![image](https://user-images.githubusercontent.com/116816731/202293619-da3f9543-10a9-46aa-9107-b96d3b3fd966.png)
+
+El foco numero 4.
+
+• CAPITULO 4: ENERGIA Y POTENCIA
+
+SECCIÓN 4–1: Energía y potencia
+
+2)Demuestre que hay 3.6 3 106 joules en un kilowatt-hora.
+
+![image](https://user-images.githubusercontent.com/116816731/202293724-b378c074-08ed-4a8b-aa10-2c821a1213db.png)
+
+4)Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![image](https://user-images.githubusercontent.com/116816731/202293784-8c7d16d7-5ac3-4684-97da-fa2f1c033d87.png)
+
+6)onvierta las siguientes cantidades en kilowatts:
 
 
 
