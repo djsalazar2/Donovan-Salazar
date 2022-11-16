@@ -28,9 +28,12 @@ guientes en el mismo circuito.
 
 ![image](https://user-images.githubusercontent.com/116816731/202278054-f4cd8080-b985-4c7c-be31-dd3b5dc2bf6f.png)
 
-a) V= 1.5V
+![image](https://user-images.githubusercontent.com/116816731/202280160-337f7d70-100a-474b-b799-ce7824a5759c.png)
 
-![image](https://user-images.githubusercontent.com/116816731/202278261-aae7fc14-c7cf-47cd-a5de-b8bd0863c906.png)
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
+rojo, oro.
+
+
 
 
 
