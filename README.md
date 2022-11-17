@@ -127,7 +127,7 @@ SECCIÓN 4–1: Energía y potencia
 
 ![image](https://user-images.githubusercontent.com/116816731/202293784-8c7d16d7-5ac3-4684-97da-fa2f1c033d87.png)
 
-6)onvierta las siguientes cantidades en kilowatts:
+6) convierta las siguientes cantidades en kilowatts:
 
 
 
