@@ -228,8 +228,27 @@ entrada es de 5 W?
 
 ### 4. VIDEO
 
+https://youtu.be/bsW_HeuRnPE
+
 ### 5. CONCLUSIONES
 
+Podemos concluir que la ley de ohm nos da a conocer la relación que existe entre la corriente, voltaje y la resistencia
+
+Concluimos que si se cumple que la corriente con el voltaje es directamente proporcional y la resistencia inversamente proporcional aplicando bien las formulas
+
+La potencia con la energia van de la mano ya que las dos se complmentan una se aydua de la otra y esto ayuda a tener un mayor fuente de poder
+
+Concluyo con hay que saber los copcetos basicos de las teorias y reemplazar bien las formulas dependiendo el ejercicio que se nos proponga y asi con los datos que nos proporsiona solo reemplazar valores
+
 ###  6. BIBLIOGRAFIA
+
+Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación. 
+https://drive.google.com/file/d/1cGAWCJ4-yhAe1LyAXvmOeUhEmQVLy-zv/view
+
+### RUBRICA
+
+![image](https://user-images.githubusercontent.com/116816731/202621637-54b58458-3e57-4fdc-a9c5-30bf62871ae2.png)
+
+ 
 
 
