@@ -5,10 +5,25 @@ Nombre: Donovan Salazar
 ## 1. OBJETIVOS
 #### Objetivo General
 
+Comprender, conocer las diferentes teorias, leyes que nos permiten calcular tanto la intensidad, corriente, trabajo de un circuito en especifico el cual analizaremos mediante los conceptos previamente mensionados
+
 #### Objetivos especificos
+
+Conocer la relacion que existe entre la corriente, la intensidad y la resistencia
+
+Detectar las fallas de un circuito
+
+Saber despejar las ecauciones de las diferentes teorias para solucionar los problomas
+
+Aprender a manejar prefijos y trasformacion de unidades
 
 
 ## 2. MARCO TEORICO (RESUMEN)
+
+![image](https://user-images.githubusercontent.com/116816731/202589971-0fcb3bec-eacf-4ee8-81ce-029efd652878.png)
+
+![image](https://user-images.githubusercontent.com/116816731/202593231-45456380-b781-4f47-a94c-e0e75a56be0f.png)
+
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 #### CAPITULO 3: LEY DE OHM
